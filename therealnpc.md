@@ -18,7 +18,7 @@ Go to bottom of buffer
 
 1. emacs
 
-        __pls add solution__
+        M->
 
 Go to first line of buffer
 --------------------------
@@ -29,4 +29,4 @@ Go to first line of buffer
 
 1. emacs
 
-        __pls add solution__
+        M-<
