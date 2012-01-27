@@ -30,3 +30,7 @@ Go to first line of buffer
 1. emacs
 
         M-<
+        
+        
+Nomenclature:
+Emacs keybindings are written as C-M-S-x. C is Control, M is Meta, S is Shift. Lowercase characters mean "press this key".
