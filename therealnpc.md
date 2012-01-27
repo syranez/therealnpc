@@ -52,8 +52,3 @@ And now the next "foobar"
 1. emacs
 
         __please add solution__
-
-        
-        
-Nomenclature:
-Emacs keybindings are written as C-M-S-x. C is Control, M is Meta, S is Shift. Lowercase characters mean "press this key".

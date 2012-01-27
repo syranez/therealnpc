@@ -3,6 +3,13 @@ The real npc
 
 Shows how emacs and vim users solve challenges.
 
+Nomenclature
+------------
+
+Emacs keybindings are written as C-M-S-x. C is Control, M is Meta, S is Shift. Lowercase characters mean "press this key".
+
+Searching in vim is triggered by /, then enter the search string and return.
+
 Ideaѕ for challenges
 --------------------
 
