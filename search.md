@@ -8,7 +8,7 @@ Search the next occurence of "foobar" from the current cursor position
 
 1. vim
 
-        /foobar
+        (ESC) /foobar
 
 1. emacs
 
