@@ -37,3 +37,11 @@ Feel free to work it out, give a solution or add new ideas.
 1. transpose words
 1. go x lines forward / backward
 1. go x sentences / words / characters / blocks forward / backward
+
+Authors
+-------
+
+Feel free to contribute by forking and making pull request. Regular requesters can gain access to the repository.
+
+http://github.cøm/syranez
+http://github.com/the-kenny
