@@ -36,8 +36,8 @@ And now the previous "foobar"
 
         __TODO__
 
-And now backward
--------------------------
+Search the previous occurence of "foobar" from the current position
+-------------------------------------------------------------------
 
 1. vim
 
