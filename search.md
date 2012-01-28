@@ -25,6 +25,17 @@ And now the next "foobar"
 
         C-s
 
+And now the previous "foobar"
+-------------------------
+
+1. vim
+
+        N
+
+1. emacs
+
+        __TODO__
+
 And now backward
 -------------------------
 
