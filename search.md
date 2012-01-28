@@ -12,7 +12,7 @@ Search the next occurence of "foobar" from the current cursor position
 
 1. emacs
 
-        __please add solution__
+        C-s foobar
 
 And now the next "foobar"
 -------------------------
@@ -23,4 +23,15 @@ And now the next "foobar"
 
 1. emacs
 
-        __please add solution__
+        C-s
+
+And now backward
+-------------------------
+
+1. vim
+
+        ??????
+
+1. emacs
+
+        C-r
