@@ -45,6 +45,17 @@ Exit the editor and discard all changes
 
         TODO
 
+Exit the editor and save all changes
+------------------------------------
+
+1. vim
+
+        (ESC) :wq
+
+1. emcacs
+
+        TODO
+
 Exit the editor
 ---------------
 
