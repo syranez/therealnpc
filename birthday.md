@@ -12,4 +12,4 @@ Send someone a personalized animated birthday message
 
 1. emacs
 
-        M-x animate-birthday-present RED <name> RET
+        M-x animate-birthday-present RET <name> RET
