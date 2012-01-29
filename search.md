@@ -34,7 +34,7 @@ And now the previous "foobar"
 
 1. emacs
 
-        __TODO__
+        C-r C-r
 
 Search the previous occurence of "foobar" from the current position
 -------------------------------------------------------------------
