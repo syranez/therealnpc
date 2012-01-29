@@ -9,7 +9,7 @@ on most systems you can vi also to start vim.
 
 2. emacs
 
-        __pleaѕe add solution__
+        emacs
 
 Open the file "foobar.txt"
 --------------------------
@@ -20,7 +20,7 @@ Open the file "foobar.txt"
 
 2. emacs
 
-        __pleaѕe add solution__
+        C-x C-f foobar.txt
 
 
 Save the file as "foobar2.txt"
@@ -32,7 +32,7 @@ Save the file as "foobar2.txt"
 
 1. emacs
 
-        __pleaѕe add solution__
+        C-x C-w foobar2.txt
 
 Exit the editor
 ---------------
@@ -43,4 +43,4 @@ Exit the editor
 
 1. emacs
 
-        __pleaѕe add solution__
+        C-x C-c
