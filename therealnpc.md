@@ -7,7 +7,7 @@ Insert some text e. g. "foobar"
 
 2. emacs
 
-        __pleaѕe add solution__
+        foobar
 
 
 Delete from current cursor position to end of line
