@@ -5,7 +5,7 @@ Open the editor
 
         vim
 
-on most systems you can vi also to start vim.
+(On most systems you can use vi too)
 
 2. emacs
 
