@@ -34,6 +34,17 @@ Save the file as "foobar2.txt"
 
         C-x C-w foobar2.txt
 
+Exit the editor and discard all changes
+---------------------------------------
+
+1. vim
+
+        (ESC) :q!
+
+1. emcacs
+
+        TODO
+
 Exit the editor
 ---------------
 
