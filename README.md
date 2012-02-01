@@ -44,4 +44,10 @@ Authors
 Feel free to contribute by forking and making pull request. Regular requesters can gain access to the repository.
 
 http://github.cøm/syranez
+
 http://github.com/the-kenny
+
+Thanks to and resources
+-----------------------
+
+http://www.i21k.de/files/grundgesetz.urversion.txt
