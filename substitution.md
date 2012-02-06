@@ -12,4 +12,4 @@ Substitute all occurences of "e" with "PENIS".
 
 1. emacs
 
-        TODO
+        M-% e RET PENIS RET !
