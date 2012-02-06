@@ -54,7 +54,7 @@ Exit the editor and save all changes
 
 1. emcacs
 
-        TODO
+        C-u C-x C-c
 
 Exit the editor
 ---------------
