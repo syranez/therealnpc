@@ -12,7 +12,7 @@ Move the cursor one step left
 
 1. emacs
 
-        TODO
+        C-b
 
 Move the cursor one step right
 ------------------------------
@@ -23,7 +23,7 @@ Move the cursor one step right
 
 1. emacs
 
-        TODO
+        C-f
 
 Move the cursor one line top
 ----------------------------
@@ -34,7 +34,7 @@ Move the cursor one line top
 
 1. emacs
 
-        TODO
+        C-p
 
 Move the cursor one line down
 -----------------------------
@@ -45,4 +45,4 @@ Move the cursor one line down
 
 1. emacs
 
-        TODO
+        C-n
