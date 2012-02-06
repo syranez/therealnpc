@@ -69,4 +69,4 @@ Delete all the lines in the buffer
 
 2. Emacs
 
-        C-< C-<Space> C-> DEL
+        M-< C-<Space> M-> DEL
