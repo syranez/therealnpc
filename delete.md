@@ -12,7 +12,7 @@ Delete the character under curser
 
 1. emacs
 
-        TODO
+        C-d
 
 Delete the next n characters
 ----------------------------
@@ -23,7 +23,7 @@ Delete the next n characters
 
 1. emacs
 
-        TODO
+        M-N C-d
 
 (where N is a number)
 
@@ -36,7 +36,7 @@ Delete the line
 
 1. emacs
 
-        TODO
+        C-S-<Backspace>
 
 Delete from cursor position till end of paragraph
 -------------------------------------------------
@@ -47,7 +47,7 @@ Delete from cursor position till end of paragraph
 
 1. emacs
 
-        TODO
+        M-x kill-paragraph
 
 Delete from start of paragraph till cursor position
 ---------------------------------------------------
@@ -69,4 +69,4 @@ Delete all the lines in the buffer
 
 2. Emacs
 
-        TODO
+        C-< C-<Space> C-> DEL
