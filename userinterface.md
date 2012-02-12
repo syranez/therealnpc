@@ -8,7 +8,7 @@ Split the window horizontally
 
 1. vim
 
-        ???
+       (ESC) :hsplit [file]
 
 1. emacs
 
@@ -20,7 +20,7 @@ Split the window vertically
 
 1. vim
 
-        ???
+       (ESC) :vsplit [file]
 
 1. emacs
 
