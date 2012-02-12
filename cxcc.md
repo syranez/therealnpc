@@ -43,7 +43,7 @@ Exit the editor and discard all changes
 
 1. emcacs
 
-        TODO
+        C-x C-x q
 
 Exit the editor and save all changes
 ------------------------------------
@@ -54,7 +54,7 @@ Exit the editor and save all changes
 
 1. emcacs
 
-        C-u C-x C-c
+        C-x C-c !
 
 Exit the editor
 ---------------
