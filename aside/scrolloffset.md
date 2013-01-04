@@ -10,9 +10,9 @@ So two questions:
 
 1. vim
 
-        1) (ESC) :set scrolloffset=x
+        1) (ESC) :set scrolloff=x
 
-        2) (ESC) :set scrolloffset=9999
+        2) (ESC) :set scrolloff=9999
 
 1. emacs
 
